@@ -1,4 +1,4 @@
-# React Architectute Proposal
+# React Architecture Proposal
 
  - [React Query](https://react-query.tanstack.com/) for `asynchronous` or server state management
  - [Redux Toolkit](https://redux-toolkit.js.org/) for `synchronous` UI state management 
